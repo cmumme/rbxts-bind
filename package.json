@@ -34,5 +34,6 @@
   },
   "dependencies": {
     "@rbxts/experimental-reflect": "^1.0.0",
+    "@rbxts/object-utils": "^1.0.4"
   }
 }
