@@ -32,5 +32,7 @@
     "roblox-ts": "^2.1.1",
     "typescript": "^5.1.6"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@rbxts/experimental-reflect": "^1.0.0",
+  }
 }
